@@ -1,0 +1,31 @@
+# .NET build output
+bin/
+obj/
+
+# NuGet packages (restored automatically)
+*.nupkg
+.nuget/
+packages/
+
+# User-specific Visual Studio / Rider files
+*.user
+*.suo
+.vs/
+.idea/
+*.DotSettings.user
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Convergence CSV output (generated at runtime)
+AirportRCGA/results/
+
+# Claude Code session data
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
