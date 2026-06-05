@@ -23,8 +23,6 @@ TestResults/
 # Convergence CSV output (generated at runtime)
 AirportRCGA/results/
 
-# Claude Code session data
-.claude/
 
 # OS
 .DS_Store
